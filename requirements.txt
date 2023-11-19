@@ -1,0 +1,3 @@
+ArabicNames
+termcolor
+anticaptchaofficial
